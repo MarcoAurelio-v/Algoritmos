@@ -1,6 +1,6 @@
 # Modelar o hacer el sistema de un banco
 
-account_balance: float = 100000.0
+account_balance: float = 0.0
 
 # Hacer un menu
 
